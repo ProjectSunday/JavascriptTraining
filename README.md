@@ -23,7 +23,11 @@
 * for
 * do
 
+### OOP ###
 
+### Libraries ###
+
+### Frameworks ###
 
 
 
