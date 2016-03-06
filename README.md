@@ -19,6 +19,9 @@
 ### Loops ###
 
 * if/goto
+* while
+* for
+* do
 
 
 
