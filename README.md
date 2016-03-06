@@ -11,11 +11,16 @@
 * Intro
 * Declaration vs Assignment
 * Keyword vs Identifier
-* 
 
 ### Conditions ###
 
+* if
+
 ### Loops ###
+
+* if/goto
+
+
 
 
 
