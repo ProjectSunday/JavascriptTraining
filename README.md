@@ -7,7 +7,17 @@
 
 ### Variables ###
 
-* blah
+* var name;
+* Intro
+* Declaration vs Assignment
+* Keyword vs Identifier
+* 
+
+### Conditions ###
+
+### Loops ###
+
+
 
 [test](http://projectsunday.github.io/javascripttraining/test/test.html)
 
